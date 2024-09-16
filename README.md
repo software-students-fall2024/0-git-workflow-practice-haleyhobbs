@@ -8,6 +8,9 @@ Hi Haley, I completely agree with you that the logic in computer science and law
 ## Rashed Alneyadi
 Interesting Recommendation!
 
+## Rashed Alneyadi
+Nice work and excellent recommendation
+
 #### [Software engineers and the law](https://josvisser.substack.com/p/software-engineers-and-the-law)
 This article looks at the intersection of the computer science/tech field and the law. Author Jos Visser, an engineer with a law degree, ultimately argues that software engineers typically won't succeed in law due to the foundational differences that drive each person's views in their respective field. I've always naturally gravitated toward STEM - and am now pursuing a major in CS - but law is where I want to end up. I'm hoping to pursue a career in which I can combine these interests (currently considering cybersecurity/cyber, IP, and privacy law). Therefore, this article was particularly interesting to me.
 
